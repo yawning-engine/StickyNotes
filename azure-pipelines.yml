@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  'AzurePipeline-DemoAgent'
+  AzurePipeline-DemoAgent
 
 variables:
   solution: '**/*.sln'
